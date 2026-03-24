@@ -9,3 +9,4 @@ where:
 Currently, there are the abbreviations for the platforms used:
 - cf: codeforces
 - vj: vjudge
+- lc: leetcode
